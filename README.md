@@ -14,9 +14,11 @@ Install
  3. Clone this repository in your Desktop.
  4. Execute  *install_noip.bash* with sudo.
 > sudo sh ethereum_dns_rig/install_noip.bash
+
  5. Put your e-mail that use to sign up in **no-ip ** and your password.
  6. Move *rcX.d to /etc/init.d/* for startup with **Ubuntu**.  
 > sudo mv  ethereum_dns_rig/rcX.d /etc/init.d/
+ 
  7. Reboot system
 
 
