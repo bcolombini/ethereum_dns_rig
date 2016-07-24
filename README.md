@@ -20,6 +20,7 @@ Install
 > sudo mv  ethereum_dns_rig/rcX.d /etc/init.d/
  
  7. Reboot system
+> sudo reboot now
 
 ----
 Enjoy
