@@ -4,4 +4,4 @@ sudo tar xf noip-duc-linux.tar.gz
 cd noip-2.1.9-1/
 sudo make install
 sudo chmod 700 /usr/local/bin/noip2
-
+sudo apt-get install ssh
