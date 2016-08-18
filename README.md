@@ -23,4 +23,7 @@ Install
 > sudo reboot now
 
 ----
+
+Help: http://askubuntu.com/questions/442246/how-to-run-an-application-on-startup-automatically
+
 Enjoy
